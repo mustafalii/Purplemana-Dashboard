@@ -27,4 +27,4 @@ streamlit run dashoard.py
 ```
 
 ## Note:
-You will need a google service account, and your own creds.json file that is used in driveUploader.py. You must also share the relevant files on your drive with the service account. 
+You will need a google service account, and your own creds.json file that is used in driveUploader.py. You must also share the relevant files on your drive with the service account. Once you have the creds.json file, put in the same directory as the python files, and make the associated changes in driveUploader.py and dashboard.py
